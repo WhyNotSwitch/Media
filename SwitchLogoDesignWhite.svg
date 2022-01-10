@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="75.133217mm"
+   height="20.548599mm"
+   viewBox="0 0 75.133217 20.548599"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
@@ -24,12 +24,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.77058782"
-     inkscape:cx="397.09945"
-     inkscape:cy="561.9087"
-     inkscape:window-width="1916"
-     inkscape:window-height="1041"
+     inkscape:cx="308.20627"
+     inkscape:cy="180.38178"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -44,7 +44,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-23.195553,-100.93181)">
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -57,8 +58,8 @@
        inkscape:export-ydpi="96"><tspan
          x="90.356232"
          y="457.79457"
-         id="tspan42205"><tspan
+         id="tspan835"><tspan
            style="font-style:italic;font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display, Italic';text-align:center;text-anchor:middle;fill:#ffffff"
-           id="tspan42203">Switch</tspan></tspan></text>
+           id="tspan833">Switch</tspan></tspan></text>
   </g>
 </svg>
